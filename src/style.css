@@ -1,0 +1,17 @@
+body{
+    background-color: #898b89;
+}
+.storage{
+background-image: "https://architecturebeast.com/wp-content/uploads/2018/02/01-The-best-exterior-house-design-ideas-Architecture-Beast-02.jpg ";
+background-repeat: no-repeat;
+max-width: 600px;
+padding: 30px;
+margin: 45px auto;
+display: block;
+}
+h1{
+    text-align: center;
+}
+footer{
+    font-size: 16px;
+}
