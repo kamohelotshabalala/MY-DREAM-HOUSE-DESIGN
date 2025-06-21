@@ -15,12 +15,13 @@ h1{
 }
 footer{
     font-size: 16px;
+    font-weight: 400;
+}
+ .description{
+    font-size: 18px;
+    font-weight: 400;
+    opacity: 1.1;
  }
- button{
-    background-color: #f30192;
-    padding: 15px 30px;
-    border: none;
-    border-radius: 6px;
-    margin-left: 5px;
-    color: white;
+ a{
+    color: #a51675;
  }
